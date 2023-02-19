@@ -28,7 +28,7 @@ jobs:
     - name: Run
       run: ./build.sh
   build-macos:
-    runs-on: macOS-latest
+    runs-on: macos-latest
     steps:
     - uses: actions/checkout@v3
     - name: Run

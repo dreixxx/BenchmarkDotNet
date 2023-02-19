@@ -1,5 +1,3 @@
-name: Documentation Checks
-
 on:
   push:
     branches:
